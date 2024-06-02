@@ -1,4 +1,4 @@
-test_str = "GeeksforGeeks"
+test_str = "apple"
 
 new_str = test_str.replace('e','')
 
